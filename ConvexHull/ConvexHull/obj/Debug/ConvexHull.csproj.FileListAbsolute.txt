@@ -1,0 +1,10 @@
+C:\Users\jlabp\source\repos\ConvexHull\ConvexHull\bin\Debug\ConvexHull.exe.config
+C:\Users\jlabp\source\repos\ConvexHull\ConvexHull\bin\Debug\ConvexHull.exe
+C:\Users\jlabp\source\repos\ConvexHull\ConvexHull\bin\Debug\ConvexHull.pdb
+C:\Users\jlabp\source\repos\ConvexHull\ConvexHull\obj\Debug\ConvexHull.Properties.Resources.resources
+C:\Users\jlabp\source\repos\ConvexHull\ConvexHull\obj\Debug\ConvexHull.csproj.GenerateResource.cache
+C:\Users\jlabp\source\repos\ConvexHull\ConvexHull\obj\Debug\ConvexHull.csproj.CoreCompileInputs.cache
+C:\Users\jlabp\source\repos\ConvexHull\ConvexHull\obj\Debug\ConvexHull.exe
+C:\Users\jlabp\source\repos\ConvexHull\ConvexHull\obj\Debug\ConvexHull.pdb
+C:\Users\jlabp\source\repos\ConvexHull\ConvexHull\obj\Debug\ConvexHull.Form1.resources
+C:\Users\jlabp\source\repos\ConvexHull\ConvexHull\obj\Debug\ConvexHull.csprojAssemblyReference.cache
